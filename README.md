@@ -60,4 +60,4 @@ sudo chown -R dcm4chee /opt/dcm4chee-2.18.0-mysql
 sudo su - dcm4chee -c /opt/dcm4chee/bin/run.sh
 ```
 
-Go to localhost:8080 in you browser and login with admin/admin
+Go to http://localhost:8080/dcm4chee-web3 in you browser and login with admin/admin
